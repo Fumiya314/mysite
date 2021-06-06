@@ -1,0 +1,15 @@
+.denken-title{
+	height: 400px;
+	background-image: url(20181006_011213390_iOS.jpg);
+	background-size: cover;
+	color: #FFF;
+    text-align: center;
+	
+}
+
+.denken-logo{
+	font-size: 350%;
+	letter-spacing: 5px;
+	text-shadow: 1.5px 2px 9px black;
+	font-family: Arial, Helvetica, sans-serif;
+}
